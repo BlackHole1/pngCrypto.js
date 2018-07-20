@@ -1,3 +1,4 @@
+// test
 function crypto(f) {
             var dl = document.getElementById('dl');
             dl.innerText = 'Loading...';
